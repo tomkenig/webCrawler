@@ -7,15 +7,13 @@ DONE: funfunGetArticleText
 DONE: funFibonacci
 TODO: funGetArticleFibonacciTeaser
 
-
-
-
 IDEAS:
 find first H1/H2/H3 and crawl down
 
 https://kaijento.github.io/2017/03/30/beautifulsoup-removing-tags/ ------------howto scrap table
 NEED:
 pip install bs4
+pip install Django
 '''
 
 # libs
